@@ -29,7 +29,7 @@ spec:
               - ALL
           privileged: false
           readOnlyRootFilesystem: true
-        image: marypearl/productcatalogservice:latest
+        image: alade01/productcatalogservice:latest
         ports:
         - containerPort: 3550
         env:
