@@ -32,3 +32,5 @@ jobs:
           tags: |
             alade01/productcatalogservice:latest
             alade01/productcatalogservice:${{ github.sha }}
+
+
